@@ -1,6 +1,7 @@
 d# cupumoting
 ===========MALAYSIA===========
 
+
 #EXTINF:-1 tvg-id="TV1" group-title="MALAYSIA" ch-number="101" group-logo="https://aqfadtv.xyz/images/FTA.png" tvg-logo="https://aqfadtv.xyz/logos/TV1.png",TV1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-server.aqfadtv.xyz/?username=HishamKamarul&channelid=711
@@ -29,6 +30,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/911/default_primary.mpd
 
 
+
 #EXTINF:-1 tvg-id="TV9" ch-number="149" group-title="MALAYSIA" group-logo="https://aqfadtv.xyz/images/FTA.png" tvg-logo="https://aqfadtv.xyz/logos/TV9.png",TV9
 KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -37,11 +39,13 @@ KODIPROP:inputstream.adaptive.license_type=clearkey
 https://linearjitp-playback.astro.com.my/dash-wv/linear/705/default_primary.mpd
 
 
+
 #EXTINF:-1 tvg-id="TVS" ch-number="122" group-title="MALAYSIA" group-logo="https://aqfadtv.xyz/images/FTA.png" tvg-logo="https://aqfadtv.xyz/logos/TVS_2024.png",TVS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Vcyu6IazQN2QH0v43Z06ag", "kid":"w+lWs4rpk74UlMfPoXsREA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MiTV-AXSO0 Build/QTZCS200912.005) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
 https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS.m3u8
+
 
 
 #EXTINF:-1 tvg-id="AstroRia" group-title="MALAYSIA" ch-number="104" group-logo="https://aqfadtv.xyz/images/Astro (2024).png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",Astro Ria
